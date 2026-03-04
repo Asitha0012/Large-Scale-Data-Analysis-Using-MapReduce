@@ -1,0 +1,118 @@
+Top 20 Words Per Star Rating
+=================================
+
+⭐ 1-Star Reviews
+------------------------------
+like	25271
+product	21419
+taste	17351
+food	16180
+out	14046
+when	13282
+coffee	12003
+what	11944
+good	11566
+even	11347
+dont	10799
+buy	10151
+because	10108
+there	9970
+other	9892
+only	9708
+amazon	9567
+flavor	9496
+after	9184
+some	8737
+
+⭐ 2-Star Reviews
+------------------------------
+like	18402
+taste	13606
+product	10179
+flavor	10141
+coffee	9787
+good	9482
+when	7658
+tea	7217
+out	7152
+dont	6709
+much	6545
+other	6410
+there	5968
+some	5941
+too	5934
+because	5924
+what	5848
+food	5589
+only	5340
+which	5176
+
+⭐ 3-Star Reviews
+------------------------------
+like	26010
+taste	18970
+good	18218
+coffee	17361
+flavor	15997
+product	13966
+when	11139
+much	10249
+tea	10173
+out	10058
+dont	9904
+other	9742
+too	9527
+some	9502
+there	9210
+which	8548
+because	8520
+food	8392
+only	8149
+what	8055
+
+⭐ 4-Star Reviews
+------------------------------
+like	46239
+good	41530
+coffee	31813
+taste	29090
+flavor	26312
+great	22064
+product	21777
+when	21225
+tea	20359
+some	18913
+only	18763
+other	17750
+out	17694
+little	17661
+dont	16164
+food	16089
+too	16007
+much	15707
+because	15298
+which	14463
+
+⭐ 5-Star Reviews
+------------------------------
+like	135949
+great	125519
+good	114560
+love	98202
+coffee	89229
+taste	87589
+tea	86894
+when	82551
+flavor	80613
+product	79111
+food	77524
+out	64476
+other	63291
+some	60063
+best	59614
+only	57603
+use	53940
+too	53562
+amazon	52246
+much	52150
+
